@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="coursejob.Notebook_node">
+    <Position X="6.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEBAAAAAQAAAoACAAEAAAgAAAAAAACAgA=</HashCode>
+      <FileName>Notebook_node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="coursejob.Program">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Form1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="coursejob.Form1">
+    <Position X="3" Y="0.75" Width="2" />
+    <Members>
+      <Field Name="aboutToolStripItem" Hidden="true" />
+      <Field Name="birthdays_tab" Hidden="true" />
+      <Field Name="birthdays_table" Hidden="true" />
+      <Field Name="cancel" Hidden="true" />
+      <Field Name="card" Hidden="true" />
+      <Field Name="card_addres_input" Hidden="true" />
+      <Field Name="card_addres_label" Hidden="true" />
+      <Field Name="card_birthday_input" Hidden="true" />
+      <Field Name="card_birthday_label" Hidden="true" />
+      <Field Name="card_date_nature_input" Hidden="true" />
+      <Field Name="card_date_nature_label" Hidden="true" />
+      <Field Name="card_extra_input" Hidden="true" />
+      <Field Name="card_extra_label" Hidden="true" />
+      <Field Name="card_job_input" Hidden="true" />
+      <Field Name="card_job_label" Hidden="true" />
+      <Field Name="card_name_input" Hidden="true" />
+      <Field Name="card_name_label" Hidden="true" />
+      <Field Name="card_phone_input" Hidden="true" />
+      <Field Name="card_phone_label" Hidden="true" />
+      <Field Name="card_sex_input" Hidden="true" />
+      <Field Name="card_sex_label" Hidden="true" />
+      <Field Name="changeEntry" Hidden="true" />
+      <Field Name="choose_template_search" Hidden="true" />
+      <Field Name="choose_template_search_label" Hidden="true" />
+      <Field Name="chooseBirthday" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="congratulation" Hidden="true" />
+      <Field Name="createEnrty" Hidden="true" />
+      <Field Name="deleteEntry" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="helpToCopy_label" Hidden="true" />
+      <Field Name="helpToolstripMenu" Hidden="true" />
+      <Field Name="howYears" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="last_change" Hidden="true" />
+      <Field Name="list_group" Hidden="true" />
+      <Field Name="list_search_group" Hidden="true" />
+      <Field Name="list_table" Hidden="true" />
+      <Field Name="menuStrip1" Hidden="true" />
+      <Field Name="name" Hidden="true" />
+      <Field Name="notebook_tab" Hidden="true" />
+      <Field Name="saveEntry" Hidden="true" />
+      <Field Name="search_button" Hidden="true" />
+      <Field Name="search_input" Hidden="true" />
+      <Field Name="tabControl" Hidden="true" />
+      <Field Name="throwSearch" Hidden="true" />
+      <Field Name="zero_birthdays_label" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>ASBRBwTAcDAABQBQEACAJQBCrbIEEECRsIyJg0FAEAI=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Notebook_node" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
